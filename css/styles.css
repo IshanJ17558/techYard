@@ -1,0 +1,234 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+
+h1 {
+    padding: 0px;
+    margin: 0px;
+}
+
+.navbar-brand img{
+    width: 50px;
+}
+
+.navbar-brand h1{
+    position: relative;
+    top: 1.8vh;
+    left: 2vw;
+    padding-right: 5vw;
+    display: inline;
+    font-family: 'Supermercado One', cursive;
+}
+.navbar{
+    width: 100%;
+}
+
+nav {
+    display: inline;
+    float: right;
+    margin-right: 5vw;
+    padding-top: 5vh;
+
+}
+
+nav p {
+    display: inline;
+    margin-left: 3vw;
+    color: black;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 1.3rem;
+}
+
+nav p:hover {
+    display: inline;
+    margin-left: 3vw;
+    color: grey;
+}
+
+.headerWord {
+    padding-left: 20vw;
+    margin: auto;
+    font-family: 'Supermercado One', cursive;
+}
+
+.headerWord h1 {
+    padding: 5px;
+    display: inline-block;
+    font-size: 4rem;
+    background-color: black;
+    color: white;
+    margin-bottom: 10px;
+}
+
+#headerSection img {
+    height: auto;
+    width: auto;
+
+    max-height: 80vh;
+}
+
+#newItems {
+    padding-top: 5vh;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+#newItems h1 {
+    font-family: 'Supermercado One', cursive;
+    padding-bottom: 10vh;
+
+}
+
+.newArrivalRow {
+    margin: auto;
+    max-width: 80vw;
+    color: white;
+}
+
+.newArrivalRow img {
+    max-width: 19vw;
+    height: 20vh;
+}
+
+#canonCamera {
+    margin-left: 10vw;
+    max-width: 80vw;
+    margin-top: 10vh;
+    background-color: white;
+    color: black;
+}
+
+.canonCameraImg {
+    width: 40vw;
+}
+
+.canonCameraDescription {
+    margin: auto;
+    margin-top: 12%;
+}
+
+.canonCameraDescription p {
+    line-height: 6px;
+}
+
+hr {
+    height: 1vh;
+    background-color: black;
+}
+
+#iphone {
+    margin-left: 10vw;
+    max-width: 80vw;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    background-color: white;
+    color: black;
+}
+
+.iphoneCameraImg {
+    width: 30vw;
+    margin-top: 12vh;
+
+}
+
+.iphoneCameraDiv {
+    order: 2;
+
+}
+
+.iphoneCameraDescription {
+    order: 1;
+    margin: auto;
+    margin-top: 12%;
+    padding-left: 10vw;
+}
+
+.iphoneCameraDescription p {
+    line-height: 6px;
+}
+
+#imac {
+    margin-left: 10vw;
+    max-width: 80vw;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    background-color: white;
+    color: black;
+}
+
+.imacImg {
+    width: 30vw;
+    margin-top: 12vh;
+}
+
+.imacDescription {
+    margin: auto;
+    margin-top: 12%;
+    padding-left: 10vw;
+}
+
+.imacDescription p {
+    line-height: 6px;
+}
+
+#contactUsSection {
+    background: linear-gradient(45deg, rgba(0, 0, 0, 0.678), rgba(0, 0, 0, 0.678));
+    padding-top: 10vh;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+    color: white;
+    text-align: center;
+}
+
+#contactUsSection h2 {
+    font-family: 'Supermercado One', cursive;
+    margin-bottom: 10vh;
+    text-decoration: underline;
+}
+
+#contactUsSection h3 {
+    font-family: 'Supermercado One', cursive;
+
+}
+
+.contactUsIcons {
+    color: white;
+    background-color: rgb(52, 58, 64);
+    font-size: 3vw;
+    padding: 1vw;
+    border-radius: 50%;
+
+}
+
+.contactUsIcons:hover {
+    color: white;
+    background-color: rgb(91, 101, 112);
+    font-size: 3vw;
+    padding: 1vw;
+    border-radius: 50%;
+
+}
+
+.footer {
+    padding-top: 5vh;
+    text-align: center;
+    margin-top: 5wh;
+    background-color: black;
+    color: white;
+}
+
+.footer img {
+    width: 5vw;
+}
+
+.footer h1{
+    font-family: 'Supermercado One', cursive;
+}
+
+.footer p{
+    padding-bottom: 5vh;
+}
