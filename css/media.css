@@ -80,6 +80,10 @@
     
     }
     
+    .canonCameraImg {
+        width: 60vw;
+        margin-left: 10vw;
+    }
     .iphoneCameraDescription {
         padding-left: 0px;
         text-align: center;
@@ -89,18 +93,28 @@
     .iphoneCameraImg {
         width: 60vw;
         margin-top: 2vh;
+        margin-left: 10vw;
     
     }
 
     .imacImg {
         width: 60vw;
         margin-top: 2vh;
+        margin-left: 10vw;
     }
     
     .imacDescription {
         padding-left: 0px;
         text-align: center;
     }
+
+    .contactUsIcons {
+        font-size: 10vw;
+        padding: 3vw;
+        border-radius: 50%;
+    
+    }
+    
 }
 
 
